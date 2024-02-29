@@ -8,7 +8,7 @@ The purpose of this lab is to understand how CSS styles apply to structured HTML
 
 In this lab, we will expand upon our previous lab [Hello HTML](https://online.uprighted.com/lessons/written/hello-html) by styling it with an external CSS sheet. We will also be practicing referencing a wireframe for creating our design. This lab is based off a real world scenario you might encounter in your role as a software developer; you may not be the one designing the websites, but you will be the one bringing them to life.
 
-If you did not previously complete Hello Html, you can find a basic completion [here](https://replit.com/@limzkil/hello-html#index.html) to work with.
+If you did not previously complete Hello Html, you can find a basic completion [here](https://github.com/uprighted-learners/unit-1-hello-html/blob/main/readme.md) to work with.
 
 Topics:
 
@@ -72,5 +72,5 @@ The software should:
 
 - Customize the colors on the website.
 - Import fonts and utilize them.
-- Style your additional pages created in [Hello HTML](https://github.com/BurlingtonCodeAcademy/unit-1-hello-html/blob/main/readme.md). Go back to that lab description for a refresher on how to create them if you did not. Try to have the visual design of these additional pages be coherent with the styling of the first two.
+- Style your additional pages created in [Hello HTML](https://github.com/uprighted-learners/unit-1-hello-html/blob/main/readme.md). Go back to that lab description for a refresher on how to create them if you did not. Try to have the visual design of these additional pages be coherent with the styling of the first two.
 
